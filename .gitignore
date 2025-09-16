@@ -1,0 +1,7 @@
+# Backups / exports
+wp-content/ai1wm-backups/
+*.wpress
+
+# (tuỳ chọn) thư mục upload tạm
+# wp-content/uploads/
+# *.sql
