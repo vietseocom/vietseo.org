@@ -1,7 +1,39 @@
-# Backups / exports
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / build tools (nếu có)
+node_modules/
+dist/
+build/
+*.log
+
+# PHP / Composer
+vendor/
+composer.lock
+
+
+# WordPress runtime
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/**/.DS_Store
+wp-content/uploads/**/Thumbs.db
+
+# Backups & exports (QUAN TRỌNG)
 wp-content/ai1wm-backups/
 *.wpress
+*.sql
+*.sql.gz
+*.zip
+*.tar
+*.tar.gz
 
-# (tuỳ chọn) thư mục upload tạm
-# wp-content/uploads/
-# *.sql
+# Misc
+.env
+.env.*
+*.bak
+*.tmp
+# Files
+index_org.php
