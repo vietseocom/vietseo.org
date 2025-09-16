@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BLAKE2b.php" server="vietseo.org/public_html/" local="133637677587306061" remote="132663492000000000" Dst="0" />
+<file name="ChaCha20.php" server="vietseo.org/public_html/" local="133637677588665143" remote="131975748000000000" Dst="0" />
+<file name="Ed25519.php" server="vietseo.org/public_html/" local="133637677590549376" remote="133074756000000000" Dst="0" />
+<file name="Curve25519.php" server="vietseo.org/public_html/" local="133637677590705870" remote="132925284000000000" Dst="0" />
+<file name="HChaCha20.php" server="vietseo.org/public_html/" local="133637677590705870" remote="131975748000000000" Dst="0" />
+<file name="HSalsa20.php" server="vietseo.org/public_html/" local="133637677591018409" remote="131975748000000000" Dst="0" />
+<file name="Int32.php" server="vietseo.org/public_html/" local="133637677591174482" remote="132925284000000000" Dst="0" />
+<file name="Int64.php" server="vietseo.org/public_html/" local="133637677591491291" remote="132925284000000000" Dst="0" />
+<file name="Poly1305.php" server="vietseo.org/public_html/" local="133637677591647792" remote="131975748000000000" Dst="0" />
+<file name="Salsa20.php" server="vietseo.org/public_html/" local="133637677591960273" remote="131975748000000000" Dst="0" />
+<file name="SipHash.php" server="vietseo.org/public_html/" local="133637677592273247" remote="131975748000000000" Dst="0" />
+<file name="Util.php" server="vietseo.org/public_html/" local="133637677592273247" remote="131975748000000000" Dst="0" />
+<file name="X25519.php" server="vietseo.org/public_html/" local="133637677592589023" remote="132202980000000000" Dst="0" />
+<file name="XChaCha20.php" server="vietseo.org/public_html/" local="133637677592589023" remote="132925284000000000" Dst="0" />
+<file name="XSalsa20.php" server="vietseo.org/public_html/" local="133637677592901712" remote="131975748000000000" Dst="0" />
+</dwsync>

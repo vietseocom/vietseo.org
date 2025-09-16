@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassDiscovery.php" server="vietseo.org/public_html/" local="133637676119555822" remote="133626786600000000" Dst="0" />
+<file name="Exception.php" server="vietseo.org/public_html/" local="133637676120341017" remote="133626786600000000" Dst="0" />
+<file name="HttpAsyncClientDiscovery.php" server="vietseo.org/public_html/" local="133637676120341017" remote="133626786600000000" Dst="0" />
+<file name="HttpClientDiscovery.php" server="vietseo.org/public_html/" local="133637676120341017" remote="133626786600000000" Dst="0" />
+<file name="MessageFactoryDiscovery.php" server="vietseo.org/public_html/" local="133637676120652378" remote="133626786600000000" Dst="0" />
+<file name="NotFoundException.php" server="vietseo.org/public_html/" local="133637676120652378" remote="133626786600000000" Dst="0" />
+<file name="Psr17FactoryDiscovery.php" server="vietseo.org/public_html/" local="133637676120652378" remote="133626786600000000" Dst="0" />
+<file name="Psr18ClientDiscovery.php" server="vietseo.org/public_html/" local="133637676121121197" remote="133626786600000000" Dst="0" />
+<file name="StreamFactoryDiscovery.php" server="vietseo.org/public_html/" local="133637676121433702" remote="133626786600000000" Dst="0" />
+<file name="UriFactoryDiscovery.php" server="vietseo.org/public_html/" local="133637676121433702" remote="133626786600000000" Dst="0" />
+</dwsync>

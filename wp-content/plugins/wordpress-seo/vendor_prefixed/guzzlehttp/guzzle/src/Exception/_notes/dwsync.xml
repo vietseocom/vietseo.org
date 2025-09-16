@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" server="vietseo.org/public_html/" local="133637676783681604" remote="133626792600000000" Dst="0" />
+<file name="ClientException.php" server="vietseo.org/public_html/" local="133637676783837058" remote="133626792600000000" Dst="0" />
+<file name="ConnectException.php" server="vietseo.org/public_html/" local="133637676783837058" remote="133626792600000000" Dst="0" />
+<file name="GuzzleException.php" server="vietseo.org/public_html/" local="133637676784155174" remote="133626792600000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="vietseo.org/public_html/" local="133637676784155174" remote="133626792600000000" Dst="0" />
+<file name="RequestException.php" server="vietseo.org/public_html/" local="133637676784311440" remote="133626792600000000" Dst="0" />
+<file name="ServerException.php" server="vietseo.org/public_html/" local="133637676784467834" remote="133626792600000000" Dst="0" />
+<file name="TooManyRedirectsException.php" server="vietseo.org/public_html/" local="133637676784467834" remote="133626792600000000" Dst="0" />
+<file name="TransferException.php" server="vietseo.org/public_html/" local="133637676784623127" remote="133626792600000000" Dst="0" />
+</dwsync>

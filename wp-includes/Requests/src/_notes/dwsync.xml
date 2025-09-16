@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Auth.php" server="vietseo.org/public_html/" local="133637677114886133" remote="133155108000000000" Dst="0" />
+<file name="Autoload.php" server="vietseo.org/public_html/" local="133637677114886133" remote="133251012000000000" Dst="0" />
+<file name="Capability.php" server="vietseo.org/public_html/" local="133637677115198651" remote="133251012000000000" Dst="0" />
+<file name="Cookie.php" server="vietseo.org/public_html/" local="133637677115354894" remote="133251012000000000" Dst="0" />
+<file name="Exception.php" server="vietseo.org/public_html/" local="133637677118809355" remote="133155108000000000" Dst="0" />
+<file name="HookManager.php" server="vietseo.org/public_html/" local="133637677118809355" remote="133155108000000000" Dst="0" />
+<file name="Hooks.php" server="vietseo.org/public_html/" local="133637677118965662" remote="133415172000000000" Dst="0" />
+<file name="IdnaEncoder.php" server="vietseo.org/public_html/" local="133637677118965662" remote="133251012000000000" Dst="0" />
+<file name="Ipv6.php" server="vietseo.org/public_html/" local="133637677119121870" remote="133155108000000000" Dst="0" />
+<file name="Iri.php" server="vietseo.org/public_html/" local="133637677119121870" remote="133415172000000000" Dst="0" />
+<file name="Port.php" server="vietseo.org/public_html/" local="133637677119278106" remote="133155108000000000" Dst="0" />
+<file name="Proxy.php" server="vietseo.org/public_html/" local="133637677119434356" remote="133155108000000000" Dst="0" />
+<file name="Requests.php" server="vietseo.org/public_html/" local="133637677119590639" remote="133438500000000000" Dst="0" />
+<file name="Response.php" server="vietseo.org/public_html/" local="133637677119600712" remote="133251012000000000" Dst="0" />
+<file name="Session.php" server="vietseo.org/public_html/" local="133637677119750764" remote="133415172000000000" Dst="0" />
+<file name="Ssl.php" server="vietseo.org/public_html/" local="133637677119750764" remote="133155108000000000" Dst="0" />
+<file name="Transport.php" server="vietseo.org/public_html/" local="133637677120063399" remote="133155108000000000" Dst="0" />
+</dwsync>

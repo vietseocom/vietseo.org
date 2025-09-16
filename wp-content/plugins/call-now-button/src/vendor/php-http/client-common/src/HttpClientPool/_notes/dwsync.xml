@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="HttpClientPool.php" server="vietseo.org/public_html/" local="133637676113910933" remote="133626786600000000" Dst="0" />
+<file name="HttpClientPoolItem.php" server="vietseo.org/public_html/" local="133637676114067221" remote="133626786600000000" Dst="0" />
+<file name="RandomClientPool.php" server="vietseo.org/public_html/" local="133637676114223480" remote="133626786600000000" Dst="0" />
+<file name="LeastUsedClientPool.php" server="vietseo.org/public_html/" local="133637676114223480" remote="133626786600000000" Dst="0" />
+<file name="RoundRobinClientPool.php" server="vietseo.org/public_html/" local="133637676114379693" remote="133626786600000000" Dst="0" />
+</dwsync>

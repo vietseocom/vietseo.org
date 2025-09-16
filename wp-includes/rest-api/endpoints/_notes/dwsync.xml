@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wp-rest-application-passwords-controller.php" server="vietseo.org/public_html/" local="133637677563557811" remote="133046244000000000" Dst="0" />
+<file name="class-wp-rest-attachments-controller.php" server="vietseo.org/public_html/" local="133637677563714179" remote="133522102200000000" Dst="0" />
+<file name="class-wp-rest-autosaves-controller.php" server="vietseo.org/public_html/" local="133637677563870557" remote="133413444000000000" Dst="0" />
+<file name="class-wp-rest-block-directory-controller.php" server="vietseo.org/public_html/" local="133637677564026865" remote="133028964000000000" Dst="0" />
+<file name="class-wp-rest-block-pattern-categories-controller.php" server="vietseo.org/public_html/" local="133637677564026865" remote="133323588000000000" Dst="0" />
+<file name="class-wp-rest-block-patterns-controller.php" server="vietseo.org/public_html/" local="133637677564339172" remote="133323588000000000" Dst="0" />
+<file name="class-wp-rest-block-renderer-controller.php" server="vietseo.org/public_html/" local="133637677564419406" remote="132694596000000000" Dst="0" />
+<file name="class-wp-rest-block-types-controller.php" server="vietseo.org/public_html/" local="133637677564657909" remote="133540557000000000" Dst="0" />
+<file name="class-wp-rest-blocks-controller.php" server="vietseo.org/public_html/" local="133637677564657909" remote="133431588000000000" Dst="0" />
+<file name="class-wp-rest-comments-controller.php" server="vietseo.org/public_html/" local="133637677565124869" remote="133526174400000000" Dst="0" />
+<file name="class-wp-rest-controller.php" server="vietseo.org/public_html/" local="133637677565280978" remote="133389252000000000" Dst="0" />
+<file name="class-wp-rest-edit-site-export-controller.php" server="vietseo.org/public_html/" local="133637677565600374" remote="132971940000000000" Dst="0" />
+<file name="class-wp-rest-font-collections-controller.php" server="vietseo.org/public_html/" local="133637677565755513" remote="133529776200000000" Dst="0" />
+<file name="class-wp-rest-font-faces-controller.php" server="vietseo.org/public_html/" local="133637677565911674" remote="133637124600000000" Dst="0" />
+<file name="class-wp-rest-font-families-controller.php" server="vietseo.org/public_html/" local="133637677566067969" remote="133517316000000000" Dst="0" />
+<file name="class-wp-rest-global-styles-controller.php" server="vietseo.org/public_html/" local="133637677566420507" remote="133522711800000000" Dst="0" />
+<file name="class-wp-rest-global-styles-revisions-controller.php" server="vietseo.org/public_html/" local="133637677566540558" remote="133526174400000000" Dst="0" />
+<file name="class-wp-rest-menu-items-controller.php" server="vietseo.org/public_html/" local="133637677566697004" remote="133367652000000000" Dst="0" />
+<file name="class-wp-rest-menu-locations-controller.php" server="vietseo.org/public_html/" local="133637677566697004" remote="133390980000000000" Dst="0" />
+<file name="class-wp-rest-menus-controller.php" server="vietseo.org/public_html/" local="133637677567009507" remote="133367652000000000" Dst="0" />
+<file name="class-wp-rest-navigation-fallback-controller.php" server="vietseo.org/public_html/" local="133637677567009507" remote="133418628000000000" Dst="0" />
+<file name="class-wp-rest-pattern-directory-controller.php" server="vietseo.org/public_html/" local="133637677567483127" remote="133406532000000000" Dst="0" />
+<file name="class-wp-rest-plugins-controller.php" server="vietseo.org/public_html/" local="133637677567796568" remote="133389252000000000" Dst="0" />
+<file name="class-wp-rest-post-statuses-controller.php" server="vietseo.org/public_html/" local="133637677567796568" remote="133390980000000000" Dst="0" />
+<file name="class-wp-rest-post-types-controller.php" server="vietseo.org/public_html/" local="133637677568108289" remote="133390980000000000" Dst="0" />
+<file name="class-wp-rest-revisions-controller.php" server="vietseo.org/public_html/" local="133637677568425833" remote="133526174400000000" Dst="0" />
+<file name="class-wp-rest-posts-controller.php" server="vietseo.org/public_html/" local="133637677568580900" remote="133526174400000000" Dst="0" />
+<file name="class-wp-rest-search-controller.php" server="vietseo.org/public_html/" local="133637677568737217" remote="133526174400000000" Dst="0" />
+<file name="class-wp-rest-settings-controller.php" server="vietseo.org/public_html/" local="133637677569050521" remote="133385796000000000" Dst="0" />
+<file name="class-wp-rest-sidebars-controller.php" server="vietseo.org/public_html/" local="133637677569206204" remote="133390980000000000" Dst="0" />
+<file name="class-wp-rest-site-health-controller.php" server="vietseo.org/public_html/" local="133637677569362247" remote="133389252000000000" Dst="0" />
+<file name="class-wp-rest-taxonomies-controller.php" server="vietseo.org/public_html/" local="133637677569427419" remote="133390980000000000" Dst="0" />
+<file name="class-wp-rest-template-autosaves-controller.php" server="vietseo.org/public_html/" local="133637677569678957" remote="133413444000000000" Dst="0" />
+<file name="class-wp-rest-template-revisions-controller.php" server="vietseo.org/public_html/" local="133637677569678957" remote="133413444000000000" Dst="0" />
+<file name="class-wp-rest-templates-controller.php" server="vietseo.org/public_html/" local="133637677570147703" remote="133591013400000000" Dst="0" />
+<file name="class-wp-rest-terms-controller.php" server="vietseo.org/public_html/" local="133637677570147703" remote="133526174400000000" Dst="0" />
+<file name="class-wp-rest-themes-controller.php" server="vietseo.org/public_html/" local="133637677570464007" remote="133390980000000000" Dst="0" />
+<file name="class-wp-rest-url-details-controller.php" server="vietseo.org/public_html/" local="133637677570464007" remote="133501200000000000" Dst="0" />
+<file name="class-wp-rest-users-controller.php" server="vietseo.org/public_html/" local="133637677570776680" remote="133526174400000000" Dst="0" />
+<file name="class-wp-rest-widget-types-controller.php" server="vietseo.org/public_html/" local="133637677570776680" remote="133390980000000000" Dst="0" />
+<file name="class-wp-rest-widgets-controller.php" server="vietseo.org/public_html/" local="133637677571089183" remote="133389252000000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="20171228151840_WpYoastIndexable.php" server="vietseo.org/public_html/" local="133637676685520790" remote="133626792600000000" Dst="0" />
+<file name="20190529075038_WpYoastDropIndexableMetaTableIfExists.php" server="vietseo.org/public_html/" local="133637676685837111" remote="133626792600000000" Dst="0" />
+<file name="20191011111109_WpYoastIndexableHierarchy.php" server="vietseo.org/public_html/" local="133637676686149669" remote="133626792600000000" Dst="0" />
+<file name="20171228151841_WpYoastPrimaryTerm.php" server="vietseo.org/public_html/" local="133637676686462169" remote="133626792600000000" Dst="0" />
+<file name="20200420073606_AddColumnsToIndexables.php" server="vietseo.org/public_html/" local="133637676686929819" remote="133626792600000000" Dst="0" />
+<file name="20200428194858_ExpandIndexableColumnLengths.php" server="vietseo.org/public_html/" local="133637676687398571" remote="133626792600000000" Dst="0" />
+<file name="20200429105310_TruncateIndexableTables.php" server="vietseo.org/public_html/" local="133637676688339972" remote="133626792600000000" Dst="0" />
+<file name="20200408101900_AddCollationToTables.php" server="vietseo.org/public_html/" local="133637676688812560" remote="133626792600000000" Dst="0" />
+<file name="20200428123747_BreadcrumbTitleAndHierarchyReset.php" server="vietseo.org/public_html/" local="133637676688968871" remote="133626792600000000" Dst="0" />
+<file name="20200430075614_AddIndexableObjectIdAndTypeIndex.php" server="vietseo.org/public_html/" local="133637676689125127" remote="133626792600000000" Dst="0" />
+<file name="20200430150130_ClearIndexableTables.php" server="vietseo.org/public_html/" local="133637676689281366" remote="133626792600000000" Dst="0" />
+<file name="20200507054848_DeleteDuplicateIndexables.php" server="vietseo.org/public_html/" local="133637676689437626" remote="133626792600000000" Dst="0" />
+<file name="20200513133401_ResetIndexableHierarchyTable.php" server="vietseo.org/public_html/" local="133637676689593866" remote="133626792600000000" Dst="0" />
+<file name="20200609154515_AddHasAncestorsColumn.php" server="vietseo.org/public_html/" local="133637676689780314" remote="133626792600000000" Dst="0" />
+<file name="20200616130143_ReplacePermalinkHashIndex.php" server="vietseo.org/public_html/" local="133637676690066697" remote="133626792600000000" Dst="0" />
+<file name="20200617122511_CreateSEOLinksTable.php" server="vietseo.org/public_html/" local="133637676690222937" remote="133626792600000000" Dst="0" />
+<file name="20200702141921_CreateIndexableSubpagesIndex.php" server="vietseo.org/public_html/" local="133637676690379193" remote="133626792600000000" Dst="0" />
+<file name="20200728095334_AddIndexesForProminentWordsOnIndexables.php" server="vietseo.org/public_html/" local="133637676690535434" remote="133626792600000000" Dst="0" />
+<file name="20201202144329_AddEstimatedReadingTime.php" server="vietseo.org/public_html/" local="133637676690781761" remote="133626792600000000" Dst="0" />
+<file name="20201216124002_ExpandIndexableIDColumnLengths.php" server="vietseo.org/public_html/" local="133637676690781761" remote="133626792600000000" Dst="0" />
+<file name="20201216141134_ExpandPrimaryTermIDColumnLengths.php" server="vietseo.org/public_html/" local="133637676691008498" remote="133626792600000000" Dst="0" />
+<file name="20210817092415_AddVersionColumnToIndexables.php" server="vietseo.org/public_html/" local="133637676691320997" remote="133626792600000000" Dst="0" />
+<file name="20230417083836_AddInclusiveLanguageScore.php" server="vietseo.org/public_html/" local="133637676691477236" remote="133626792600000000" Dst="0" />
+<file name="20211020091404_AddObjectTimestamps.php" server="vietseo.org/public_html/" local="133637676691477236" remote="133626792600000000" Dst="0" />
+</dwsync>

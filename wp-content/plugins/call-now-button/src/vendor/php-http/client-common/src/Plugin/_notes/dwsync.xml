@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddHostPlugin.php" server="vietseo.org/public_html/" local="133637676114852406" remote="133626786600000000" Dst="0" />
+<file name="AddPathPlugin.php" server="vietseo.org/public_html/" local="133637676114852406" remote="133626786600000000" Dst="0" />
+<file name="AuthenticationPlugin.php" server="vietseo.org/public_html/" local="133637676115008637" remote="133626786600000000" Dst="0" />
+<file name="BaseUriPlugin.php" server="vietseo.org/public_html/" local="133637676115321124" remote="133626786600000000" Dst="0" />
+<file name="ContentLengthPlugin.php" server="vietseo.org/public_html/" local="133637676115321124" remote="133626786600000000" Dst="0" />
+<file name="ContentTypePlugin.php" server="vietseo.org/public_html/" local="133637676115477429" remote="133626786600000000" Dst="0" />
+<file name="CookiePlugin.php" server="vietseo.org/public_html/" local="133637676115793746" remote="133626786600000000" Dst="0" />
+<file name="DecoderPlugin.php" server="vietseo.org/public_html/" local="133637676115950055" remote="133626786600000000" Dst="0" />
+<file name="ErrorPlugin.php" server="vietseo.org/public_html/" local="133637676115950055" remote="133626786600000000" Dst="0" />
+<file name="HeaderAppendPlugin.php" server="vietseo.org/public_html/" local="133637676116262582" remote="133626786600000000" Dst="0" />
+<file name="HeaderDefaultsPlugin.php" server="vietseo.org/public_html/" local="133637676116262582" remote="133626786600000000" Dst="0" />
+<file name="HeaderRemovePlugin.php" server="vietseo.org/public_html/" local="133637676116262582" remote="133626786600000000" Dst="0" />
+<file name="HeaderSetPlugin.php" server="vietseo.org/public_html/" local="133637676116418803" remote="133626786600000000" Dst="0" />
+<file name="HistoryPlugin.php" server="vietseo.org/public_html/" local="133637676116418803" remote="133626786600000000" Dst="0" />
+<file name="Journal.php" server="vietseo.org/public_html/" local="133637676116575102" remote="133626786600000000" Dst="0" />
+<file name="QueryDefaultsPlugin.php" server="vietseo.org/public_html/" local="133637676116735239" remote="133626786600000000" Dst="0" />
+<file name="RedirectPlugin.php" server="vietseo.org/public_html/" local="133637676116735239" remote="133626786600000000" Dst="0" />
+<file name="RequestMatcherPlugin.php" server="vietseo.org/public_html/" local="133637676116735239" remote="133626786600000000" Dst="0" />
+<file name="RequestSeekableBodyPlugin.php" server="vietseo.org/public_html/" local="133637676117047811" remote="133626786600000000" Dst="0" />
+<file name="ResponseSeekableBodyPlugin.php" server="vietseo.org/public_html/" local="133637676117047811" remote="133626786600000000" Dst="0" />
+<file name="RetryPlugin.php" server="vietseo.org/public_html/" local="133637676117047811" remote="133626786600000000" Dst="0" />
+<file name="SeekableBodyPlugin.php" server="vietseo.org/public_html/" local="133637676117204112" remote="133626786600000000" Dst="0" />
+<file name="VersionBridgePlugin.php" server="vietseo.org/public_html/" local="133637676117360330" remote="133626786600000000" Dst="0" />
+</dwsync>

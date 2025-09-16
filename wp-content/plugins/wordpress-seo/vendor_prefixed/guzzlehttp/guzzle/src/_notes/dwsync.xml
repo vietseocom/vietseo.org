@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySummarizer.php" server="vietseo.org/public_html/" local="133637676782581723" remote="133626792600000000" Dst="0" />
+<file name="BodySummarizerInterface.php" server="vietseo.org/public_html/" local="133637676782737985" remote="133626792600000000" Dst="0" />
+<file name="Client.php" server="vietseo.org/public_html/" local="133637676782737985" remote="133626792600000000" Dst="0" />
+<file name="ClientInterface.php" server="vietseo.org/public_html/" local="133637676782894199" remote="133626792600000000" Dst="0" />
+<file name="ClientTrait.php" server="vietseo.org/public_html/" local="133637676783212073" remote="133626792600000000" Dst="0" />
+<file name="HandlerStack.php" server="vietseo.org/public_html/" local="133637676785723693" remote="133626792600000000" Dst="0" />
+<file name="MessageFormatter.php" server="vietseo.org/public_html/" local="133637676785723693" remote="133626792600000000" Dst="0" />
+<file name="MessageFormatterInterface.php" server="vietseo.org/public_html/" local="133637676785964892" remote="133626792600000000" Dst="0" />
+<file name="Middleware.php" server="vietseo.org/public_html/" local="133637676786040883" remote="133626792600000000" Dst="0" />
+<file name="Pool.php" server="vietseo.org/public_html/" local="133637676786040883" remote="133626792600000000" Dst="0" />
+<file name="PrepareBodyMiddleware.php" server="vietseo.org/public_html/" local="133637676786198317" remote="133626792600000000" Dst="0" />
+<file name="RedirectMiddleware.php" server="vietseo.org/public_html/" local="133637676786198317" remote="133626792600000000" Dst="0" />
+<file name="RequestOptions.php" server="vietseo.org/public_html/" local="133637676786198317" remote="133626792600000000" Dst="0" />
+<file name="RetryMiddleware.php" server="vietseo.org/public_html/" local="133637676786509851" remote="133626792600000000" Dst="0" />
+<file name="Utils.php" server="vietseo.org/public_html/" local="133637676786509851" remote="133626792600000000" Dst="0" />
+<file name="TransferStats.php" server="vietseo.org/public_html/" local="133637676786822953" remote="133626792600000000" Dst="0" />
+<file name="functions_include.php" server="vietseo.org/public_html/" local="133637676786984801" remote="133626792600000000" Dst="0" />
+<file name="functions.php" server="vietseo.org/public_html/" local="133637676787766883" remote="133626792600000000" Dst="0" />
+</dwsync>

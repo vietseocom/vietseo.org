@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BatchClient.php" server="vietseo.org/public_html/" local="133637676112340575" remote="133626786600000000" Dst="0" />
+<file name="BatchClientInterface.php" server="vietseo.org/public_html/" local="133637676112340575" remote="133626786600000000" Dst="0" />
+<file name="BatchResult.php" server="vietseo.org/public_html/" local="133637676112656859" remote="133626786600000000" Dst="0" />
+<file name="Deferred.php" server="vietseo.org/public_html/" local="133637676112656859" remote="133626786600000000" Dst="0" />
+<file name="EmulatedHttpAsyncClient.php" server="vietseo.org/public_html/" local="133637676112656859" remote="133626786600000000" Dst="0" />
+<file name="EmulatedHttpClient.php" server="vietseo.org/public_html/" local="133637676112813209" remote="133626786600000000" Dst="0" />
+<file name="FlexibleHttpClient.php" server="vietseo.org/public_html/" local="133637676113594488" remote="133626786600000000" Dst="0" />
+<file name="HttpAsyncClientEmulator.php" server="vietseo.org/public_html/" local="133637676113639556" remote="133626786600000000" Dst="0" />
+<file name="HttpAsyncClientDecorator.php" server="vietseo.org/public_html/" local="133637676113639556" remote="133626786600000000" Dst="0" />
+<file name="HttpClientDecorator.php" server="vietseo.org/public_html/" local="133637676113910933" remote="133626786600000000" Dst="0" />
+<file name="HttpClientEmulator.php" server="vietseo.org/public_html/" local="133637676113910933" remote="133626786600000000" Dst="0" />
+<file name="HttpClientPool.php" server="vietseo.org/public_html/" local="133637676114379693" remote="133626786600000000" Dst="0" />
+<file name="HttpClientRouter.php" server="vietseo.org/public_html/" local="133637676114379693" remote="133626786600000000" Dst="0" />
+<file name="HttpClientRouterInterface.php" server="vietseo.org/public_html/" local="133637676114641009" remote="133626786600000000" Dst="0" />
+<file name="HttpMethodsClient.php" server="vietseo.org/public_html/" local="133637676114696064" remote="133626786600000000" Dst="0" />
+<file name="HttpMethodsClientInterface.php" server="vietseo.org/public_html/" local="133637676114696064" remote="133626786600000000" Dst="0" />
+<file name="Plugin.php" server="vietseo.org/public_html/" local="133637676117360330" remote="133626786600000000" Dst="0" />
+<file name="PluginChain.php" server="vietseo.org/public_html/" local="133637676117516593" remote="133626786600000000" Dst="0" />
+<file name="PluginClient.php" server="vietseo.org/public_html/" local="133637676117646713" remote="133626786600000000" Dst="0" />
+<file name="PluginClientBuilder.php" server="vietseo.org/public_html/" local="133637676117676795" remote="133626786600000000" Dst="0" />
+<file name="PluginClientFactory.php" server="vietseo.org/public_html/" local="133637676117833171" remote="133626786600000000" Dst="0" />
+<file name="VersionBridgeClient.php" server="vietseo.org/public_html/" local="133637676117833171" remote="133626786600000000" Dst="0" />
+</dwsync>

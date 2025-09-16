@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessException.php" server="vietseo.org/public_html/" local="133637676147001167" remote="133626786600000000" Dst="0" />
+<file name="ExceptionInterface.php" server="vietseo.org/public_html/" local="133637676147157427" remote="133626786600000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="vietseo.org/public_html/" local="133637676147313678" remote="133626786600000000" Dst="0" />
+<file name="InvalidOptionsException.php" server="vietseo.org/public_html/" local="133637676147313678" remote="133626786600000000" Dst="0" />
+<file name="MissingOptionsException.php" server="vietseo.org/public_html/" local="133637676147313678" remote="133626786600000000" Dst="0" />
+<file name="NoConfigurationException.php" server="vietseo.org/public_html/" local="133637676147626206" remote="133626786600000000" Dst="0" />
+<file name="OptionDefinitionException.php" server="vietseo.org/public_html/" local="133637676147626206" remote="133626786600000000" Dst="0" />
+<file name="NoSuchOptionException.php" server="vietseo.org/public_html/" local="133637676147626206" remote="133626786600000000" Dst="0" />
+<file name="UndefinedOptionsException.php" server="vietseo.org/public_html/" local="133637676147786512" remote="133626786600000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EnvNotFoundException.php" server="vietseo.org/public_html/" local="133637676797702490" remote="133626792600000000" Dst="0" />
+<file name="ExceptionInterface.php" server="vietseo.org/public_html/" local="133637676797858849" remote="133626792600000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="vietseo.org/public_html/" local="133637676797858849" remote="133626792600000000" Dst="0" />
+<file name="LogicException.php" server="vietseo.org/public_html/" local="133637676797858849" remote="133626792600000000" Dst="0" />
+<file name="ParameterCircularReferenceException.php" server="vietseo.org/public_html/" local="133637676798175646" remote="133626792600000000" Dst="0" />
+<file name="RuntimeException.php" server="vietseo.org/public_html/" local="133637676798175646" remote="133626792600000000" Dst="0" />
+<file name="ServiceCircularReferenceException.php" server="vietseo.org/public_html/" local="133637676798175646" remote="133626792600000000" Dst="0" />
+<file name="ServiceNotFoundException.php" server="vietseo.org/public_html/" local="133637676798331806" remote="133626792600000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wp-customize-background-image-control.php" server="vietseo.org/public_html/" local="133637677392016570" remote="132972804000000000" Dst="0" />
+<file name="class-wp-customize-background-image-setting.php" server="vietseo.org/public_html/" local="133637677392096696" remote="132972804000000000" Dst="0" />
+<file name="class-wp-customize-background-position-control.php" server="vietseo.org/public_html/" local="133637677392096696" remote="133201764000000000" Dst="0" />
+<file name="class-wp-customize-code-editor-control.php" server="vietseo.org/public_html/" local="133637677392176753" remote="132367140000000000" Dst="0" />
+<file name="class-wp-customize-color-control.php" server="vietseo.org/public_html/" local="133637677392333061" remote="132271236000000000" Dst="0" />
+<file name="class-wp-customize-cropped-image-control.php" server="vietseo.org/public_html/" local="133637677392333061" remote="133385796000000000" Dst="0" />
+<file name="class-wp-customize-custom-css-setting.php" server="vietseo.org/public_html/" local="133637677392489329" remote="132755940000000000" Dst="0" />
+<file name="class-wp-customize-date-time-control.php" server="vietseo.org/public_html/" local="133637677392645562" remote="133201764000000000" Dst="0" />
+<file name="class-wp-customize-filter-setting.php" server="vietseo.org/public_html/" local="133637677392645562" remote="131454756000000000" Dst="0" />
+<file name="class-wp-customize-header-image-control.php" server="vietseo.org/public_html/" local="133637677392801946" remote="133385796000000000" Dst="0" />
+<file name="class-wp-customize-header-image-setting.php" server="vietseo.org/public_html/" local="133637677393119029" remote="133333956000000000" Dst="0" />
+<file name="class-wp-customize-image-control.php" server="vietseo.org/public_html/" local="133637677393119029" remote="132504516000000000" Dst="0" />
+<file name="class-wp-customize-media-control.php" server="vietseo.org/public_html/" local="133637677393119029" remote="133540315200000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-control.php" server="vietseo.org/public_html/" local="133637677403423445" remote="133201764000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-auto-add-control.php" server="vietseo.org/public_html/" local="133637677403423445" remote="131515236000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-item-setting.php" server="vietseo.org/public_html/" local="133637677403736102" remote="133385796000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-location-control.php" server="vietseo.org/public_html/" local="133637677403892324" remote="133508622000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-locations-control.php" server="vietseo.org/public_html/" local="133637677404113666" remote="133215588000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-name-control.php" server="vietseo.org/public_html/" local="133637677404113666" remote="131515236000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-section.php" server="vietseo.org/public_html/" local="133637677404365627" remote="132465636000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-setting.php" server="vietseo.org/public_html/" local="133637677404365627" remote="132869124000000000" Dst="0" />
+<file name="class-wp-customize-nav-menus-panel.php" server="vietseo.org/public_html/" local="133637677404677541" remote="133201764000000000" Dst="0" />
+<file name="class-wp-customize-new-menu-control.php" server="vietseo.org/public_html/" local="133637677404677541" remote="132271236000000000" Dst="0" />
+<file name="class-wp-customize-new-menu-section.php" server="vietseo.org/public_html/" local="133637677404833814" remote="132271236000000000" Dst="0" />
+<file name="class-wp-customize-partial.php" server="vietseo.org/public_html/" local="133637677404833814" remote="133073892000000000" Dst="0" />
+<file name="class-wp-customize-selective-refresh.php" server="vietseo.org/public_html/" local="133637677405150166" remote="133400484000000000" Dst="0" />
+<file name="class-wp-customize-sidebar-section.php" server="vietseo.org/public_html/" local="133637677405150166" remote="131564484000000000" Dst="0" />
+<file name="class-wp-customize-nav-menu-item-control.php" server="vietseo.org/public_html/" local="133637677405462740" remote="133537440600000000" Dst="0" />
+<file name="class-wp-customize-site-icon-control.php" server="vietseo.org/public_html/" local="133637677405462740" remote="133534992600000000" Dst="0" />
+<file name="class-wp-customize-theme-control.php" server="vietseo.org/public_html/" local="133637677405619063" remote="133390116000000000" Dst="0" />
+<file name="class-wp-customize-themes-panel.php" server="vietseo.org/public_html/" local="133637677405619063" remote="133201764000000000" Dst="0" />
+<file name="class-wp-customize-themes-section.php" server="vietseo.org/public_html/" local="133637677405775255" remote="133372836000000000" Dst="0" />
+<file name="class-wp-customize-upload-control.php" server="vietseo.org/public_html/" local="133637677405775255" remote="132504516000000000" Dst="0" />
+<file name="class-wp-sidebar-block-editor-control.php" server="vietseo.org/public_html/" local="133637677405931485" remote="132663492000000000" Dst="0" />
+<file name="class-wp-widget-area-customize-control.php" server="vietseo.org/public_html/" local="133637677405931485" remote="133201764000000000" Dst="0" />
+<file name="class-wp-widget-form-customize-control.php" server="vietseo.org/public_html/" local="133637677406117870" remote="131995620000000000" Dst="0" />
+</dwsync>

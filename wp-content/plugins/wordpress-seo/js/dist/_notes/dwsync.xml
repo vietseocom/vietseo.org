@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="576.js" server="vietseo.org/public_html/" local="133637676644745844" remote="133626792600000000" Dst="0" />
+<file name="addon-installation.js" server="vietseo.org/public_html/" local="133637676645058399" remote="133626792600000000" Dst="0" />
+<file name="academy.js" server="vietseo.org/public_html/" local="133637676645058399" remote="133626792600000000" Dst="0" />
+<file name="admin-global.js" server="vietseo.org/public_html/" local="133637676645527160" remote="133626792600000000" Dst="0" />
+<file name="admin-modules.js" server="vietseo.org/public_html/" local="133637676645843507" remote="133626792600000000" Dst="0" />
+<file name="api-client.js" server="vietseo.org/public_html/" local="133637676646156077" remote="133626792600000000" Dst="0" />
+<file name="analysis-worker.js" server="vietseo.org/public_html/" local="133637676646468568" remote="133626792600000000" Dst="0" />
+<file name="bulk-editor.js" server="vietseo.org/public_html/" local="133637676646468568" remote="133626792600000000" Dst="0" />
+<file name="block-editor.js" server="vietseo.org/public_html/" local="133637676647410169" remote="133626792600000000" Dst="0" />
+<file name="crawl-settings.js" server="vietseo.org/public_html/" local="133637676647410169" remote="133626792600000000" Dst="0" />
+<file name="classic-editor.js" server="vietseo.org/public_html/" local="133637676648664095" remote="133626792600000000" Dst="0" />
+<file name="dashboard-widget.js" server="vietseo.org/public_html/" local="133637676648699132" remote="133626792600000000" Dst="0" />
+<file name="dynamic-blocks.js" server="vietseo.org/public_html/" local="133637676648699132" remote="133626792600000000" Dst="0" />
+<file name="edit-page.js" server="vietseo.org/public_html/" local="133637676648824183" remote="133626792600000000" Dst="0" />
+<file name="editor-modules.js" server="vietseo.org/public_html/" local="133637676649136740" remote="133626792600000000" Dst="0" />
+<file name="elementor.js" server="vietseo.org/public_html/" local="133637676649605489" remote="133626792600000000" Dst="0" />
+<file name="externals-components.js" server="vietseo.org/public_html/" local="133637676652897733" remote="133626792600000000" Dst="0" />
+<file name="externals-contexts.js" server="vietseo.org/public_html/" local="133637676652897733" remote="133626792600000000" Dst="0" />
+<file name="faq-block.js" server="vietseo.org/public_html/" local="133637676653053867" remote="133626792600000000" Dst="0" />
+<file name="filter-explanation.js" server="vietseo.org/public_html/" local="133637676653210132" remote="133626792600000000" Dst="0" />
+<file name="externals-redux.js" server="vietseo.org/public_html/" local="133637676653210132" remote="133626792600000000" Dst="0" />
+<file name="frontend-inspector-resources.js" server="vietseo.org/public_html/" local="133637676653522604" remote="133626792600000000" Dst="0" />
+<file name="help-scout-beacon.js" server="vietseo.org/public_html/" local="133637676653678865" remote="133626792600000000" Dst="0" />
+<file name="first-time-configuration.js" server="vietseo.org/public_html/" local="133637676653709108" remote="133626792600000000" Dst="0" />
+<file name="how-to-block.js" server="vietseo.org/public_html/" local="133637676653839195" remote="133626792600000000" Dst="0" />
+<file name="import.js" server="vietseo.org/public_html/" local="133637676653839195" remote="133626792600000000" Dst="0" />
+<file name="indexation.js" server="vietseo.org/public_html/" local="133637676653995518" remote="133626792600000000" Dst="0" />
+<file name="installation-success.js" server="vietseo.org/public_html/" local="133637676654151767" remote="133626792600000000" Dst="0" />
+<file name="introductions.js" server="vietseo.org/public_html/" local="133637676654308017" remote="133626792600000000" Dst="0" />
+<file name="integrations-page.js" server="vietseo.org/public_html/" local="133637676654308017" remote="133626792600000000" Dst="0" />
+<file name="network-admin.js" server="vietseo.org/public_html/" local="133637676658230793" remote="133626792600000000" Dst="0" />
+<file name="quick-edit-handler.js" server="vietseo.org/public_html/" local="133637676658699477" remote="133626792600000000" Dst="0" />
+<file name="post-edit.js" server="vietseo.org/public_html/" local="133637676658859569" remote="133626792600000000" Dst="0" />
+<file name="react-select.js" server="vietseo.org/public_html/" local="133637676659015872" remote="133626792600000000" Dst="0" />
+<file name="redirect-old-features-tab.js" server="vietseo.org/public_html/" local="133637676659172133" remote="133626792600000000" Dst="0" />
+<file name="new-settings.js" server="vietseo.org/public_html/" local="133637676659328388" remote="133626792600000000" Dst="0" />
+<file name="settings.js" server="vietseo.org/public_html/" local="133637676659484640" remote="133626792600000000" Dst="0" />
+<file name="reindex-links.js" server="vietseo.org/public_html/" local="133637676659484640" remote="133626792600000000" Dst="0" />
+<file name="support.js" server="vietseo.org/public_html/" local="133637676659640906" remote="133626792600000000" Dst="0" />
+<file name="used-keywords-assessment.js" server="vietseo.org/public_html/" local="133637676659720975" remote="133626792600000000" Dst="0" />
+<file name="term-edit.js" server="vietseo.org/public_html/" local="133637676659801046" remote="133626792600000000" Dst="0" />
+<file name="wincher-dashboard-widget.js" server="vietseo.org/public_html/" local="133637676659957378" remote="133626792600000000" Dst="0" />
+<file name="workouts.js" server="vietseo.org/public_html/" local="133637676660269857" remote="133626792600000000" Dst="0" />
+<file name="wordproof-uikit.js" server="vietseo.org/public_html/" local="133637676662152751" remote="133626792600000000" Dst="0" />
+</dwsync>

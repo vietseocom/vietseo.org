@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChunkStream.php" server="vietseo.org/public_html/" local="133637676128492898" remote="133626786600000000" Dst="0" />
+<file name="CompressStream.php" server="vietseo.org/public_html/" local="133637676128492898" remote="133626786600000000" Dst="0" />
+<file name="DechunkStream.php" server="vietseo.org/public_html/" local="133637676128669248" remote="133626786600000000" Dst="0" />
+<file name="DecompressStream.php" server="vietseo.org/public_html/" local="133637676128669248" remote="133626786600000000" Dst="0" />
+<file name="DeflateStream.php" server="vietseo.org/public_html/" local="133637676128809298" remote="133626786600000000" Dst="0" />
+<file name="FilteredStream.php" server="vietseo.org/public_html/" local="133637676128809298" remote="133626786600000000" Dst="0" />
+<file name="GzipDecodeStream.php" server="vietseo.org/public_html/" local="133637676128965640" remote="133626786600000000" Dst="0" />
+<file name="GzipEncodeStream.php" server="vietseo.org/public_html/" local="133637676129121875" remote="133626786600000000" Dst="0" />
+<file name="InflateStream.php" server="vietseo.org/public_html/" local="133637676129121875" remote="133626786600000000" Dst="0" />
+</dwsync>

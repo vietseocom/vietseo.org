@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateException.php" server="vietseo.org/public_html/" local="133637676787766883" remote="133626792600000000" Dst="0" />
+<file name="CancellationException.php" server="vietseo.org/public_html/" local="133637676787766883" remote="133626792600000000" Dst="0" />
+<file name="Coroutine.php" server="vietseo.org/public_html/" local="133637676788084518" remote="133626792600000000" Dst="0" />
+<file name="Create.php" server="vietseo.org/public_html/" local="133637676788084518" remote="133626792600000000" Dst="0" />
+<file name="Each.php" server="vietseo.org/public_html/" local="133637676788084518" remote="133626792600000000" Dst="0" />
+<file name="EachPromise.php" server="vietseo.org/public_html/" local="133637676788240895" remote="133626792600000000" Dst="0" />
+<file name="FulfilledPromise.php" server="vietseo.org/public_html/" local="133637676788397994" remote="133626792600000000" Dst="0" />
+<file name="Is.php" server="vietseo.org/public_html/" local="133637676788397994" remote="133626792600000000" Dst="0" />
+<file name="Promise.php" server="vietseo.org/public_html/" local="133637676788554426" remote="133626792600000000" Dst="0" />
+<file name="PromiseInterface.php" server="vietseo.org/public_html/" local="133637676788709721" remote="133626792600000000" Dst="0" />
+<file name="PromisorInterface.php" server="vietseo.org/public_html/" local="133637676788866708" remote="133626792600000000" Dst="0" />
+<file name="RejectedPromise.php" server="vietseo.org/public_html/" local="133637676788967802" remote="133626792600000000" Dst="0" />
+<file name="RejectionException.php" server="vietseo.org/public_html/" local="133637676789027910" remote="133626792600000000" Dst="0" />
+<file name="TaskQueue.php" server="vietseo.org/public_html/" local="133637676789027910" remote="133626792600000000" Dst="0" />
+<file name="TaskQueueInterface.php" server="vietseo.org/public_html/" local="133637676789184329" remote="133626792600000000" Dst="0" />
+<file name="Utils.php" server="vietseo.org/public_html/" local="133637676789184329" remote="133626792600000000" Dst="0" />
+</dwsync>

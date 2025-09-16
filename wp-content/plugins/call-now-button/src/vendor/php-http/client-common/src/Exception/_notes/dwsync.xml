@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BatchException.php" server="vietseo.org/public_html/" local="133637676112813209" remote="133626786600000000" Dst="0" />
+<file name="CircularRedirectionException.php" server="vietseo.org/public_html/" local="133637676112969460" remote="133626786600000000" Dst="0" />
+<file name="ClientErrorException.php" server="vietseo.org/public_html/" local="133637676113125684" remote="133626786600000000" Dst="0" />
+<file name="HttpClientNoMatchException.php" server="vietseo.org/public_html/" local="133637676113125684" remote="133626786600000000" Dst="0" />
+<file name="HttpClientNotFoundException.php" server="vietseo.org/public_html/" local="133637676113125684" remote="133626786600000000" Dst="0" />
+<file name="LoopException.php" server="vietseo.org/public_html/" local="133637676113281950" remote="133626786600000000" Dst="0" />
+<file name="MultipleRedirectionException.php" server="vietseo.org/public_html/" local="133637676113438209" remote="133626786600000000" Dst="0" />
+<file name="ServerErrorException.php" server="vietseo.org/public_html/" local="133637676113438209" remote="133626786600000000" Dst="0" />
+</dwsync>
